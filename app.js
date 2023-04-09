@@ -80,7 +80,7 @@ function filterTodo(e) {
 		}
 	})
 }
-
+// SAVE TO LOCAL
 function saveLocalTodos(todo) {
 	// CHECKING
 	let todos;
